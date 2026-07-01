@@ -914,15 +914,15 @@ export const homeHeroData = {
   "subhead": "Konect runs 200+ active AMC contracts across Mumbai — quarterly preventive maintenance, a real helpdesk and fast response that keep your society's cameras recording when it matters.",
   "strip": [
     {
-      "image": "/images/projects/hero-cameras.webp",
+      "image": "/images/projects/strip/0/image.webp",
       "alt": "CCTV cameras securing a Mumbai street"
     },
     {
-      "image": "/images/projects/hero-install.webp",
+      "image": "/images/projects/strip/1/image.webp",
       "alt": "A Konect technician installing a CCTV camera on a Mumbai building"
     },
     {
-      "image": "/images/projects/hero-camera.webp",
+      "image": "/images/projects/strip/2/image.webp",
       "alt": "A modern IP surveillance camera installed by Konect"
     }
   ]
